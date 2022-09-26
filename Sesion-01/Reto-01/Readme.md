@@ -4,7 +4,7 @@
 
 ## Reto 1: Precedencia de operadores
 
-### Objetivo
+### Objetivo karla garcia
 
 Practicar el orden de precedencia de los operadores en JavaScript.
 
